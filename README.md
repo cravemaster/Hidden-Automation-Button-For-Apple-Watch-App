@@ -1,4 +1,6 @@
-# misc_stuff
+# iBackupBot Hacks for Non-JB iOS Devices
+
+So far it's for the Watch app.
 
 If you have an iOS 9 device, put this in your iBackupbot folder for your backup you made in iTunes. "/System Files/HomeDomain/Library/Preferences."
 
