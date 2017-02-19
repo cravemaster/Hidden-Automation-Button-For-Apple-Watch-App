@@ -1,6 +1,6 @@
 # iBackupBot Hacks for Non-JB iOS Devices
 
-So far it's for the Watch app.
+*CURRENTLY ONLY FOR THE WATCH APP/APPLE WATCH APP*
 
 If you have an iOS 9 device, put this in your iBackupbot folder for your backup you made in iTunes. "/System Files/HomeDomain/Library/Preferences."
 
@@ -10,5 +10,6 @@ With iFile, put it in "/var/mobile/Library/Preferences" and respring your device
 
 
 Not tested on iOS 8.2/8.3/8.4 etc.
+Although by @hamzasood it worked fine for him on his iPhone 6 Plus back when iOS 8.2 was released but was not publically jailbroken.
 
 Works on iOS 10.x.x AS LONG AS YOUR DEVICE IS JAILBROKEN, as Apple officially put a chekc that REQUIRES an internal install on iOS 10. Sad :(.
