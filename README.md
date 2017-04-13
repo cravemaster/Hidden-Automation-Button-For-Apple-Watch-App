@@ -1,6 +1,4 @@
-# iBackupBot Hacks for Non-JB iOS Devices
-
-*CURRENTLY ONLY FOR THE WATCH APP/APPLE WATCH APP*
+# Enable the hidden Automation UI button in the Apple Watch app (iOS 10 requires jailbreak. iOS 8.2 and iOS 9 don't.)
 
 If you have an iOS 9 device, put this in your iBackupbot folder for your backup you made in iTunes. "/System Files/HomeDomain/Library/Preferences."
 
