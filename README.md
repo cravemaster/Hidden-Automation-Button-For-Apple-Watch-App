@@ -9,4 +9,4 @@ On iOS 10, things are different. iOS 10 now requires you to now have an internal
 
 This hack was <a href="https://twitter.com/hamzasood/status/576213010580111360
 ">originally found by @hamzasood</a>. It apparently worked for him on his device. Also, <a href="https://twitter.com/angelXwind/status/596490677669765120
-">@angelXwind confirmed the hack worked</a> for her device as well.
+">@angelXwind confirmed the hack worked</a> for her device as well. It worked for me as well!
