@@ -2,8 +2,8 @@
 
 Put this "com.apple.nanobuddy.automationhelper.plist" in iBackupBot's "System Files/HomeDomain/Library/Preferences".
 
-It was tested by @hamzasood it worked for him on his iPhone running iOS 8.2. And also, @angelXwind tested it on iOS 8.1.2 on one of her devices (assuming a 5S?), and she also reported that it works fine for her - as she ported the Apple Watch files from iOS 8.2 - to her jailbroken iOS 8.1.2 device.
+This hack was originally found by @hamzasood it worked for him on his iPhone 6 Plus running iOS 8.2. Also, @angelXwind tested it on her iOS 8 device - she apparently ported the Apple Watch app to her device, and she also reported that the Automation button unlock hack evidently works fine for her.
 
-On iOS 10, things are different. iOS 10 now requires you to have an internal install to use the Automation button (so you **need** to use jailbreak).
+On iOS 10, things are different. iOS 10 now requires you to now have an internal install to use the Automation button (so you **need** to use jailbreak and install InternalSettings10 to unlock).
 
-*****IF YOU ARE USING iOS 10 AND ARE RUNNING A JAILBREAK, YOU MUST INSTALL INTERNALSETTINGS10 AND ENABLE THAT UNDER Settings->InternalSettings10->Enable Automation UNDER THE Apple Watch App Settings Section PART OF SAID INTERNALSETTINGS10**.
+**IF YOU ARE USING iOS 10 AND ARE RUNNING A JAILBREAK, YOU MUST INSTALL INTERNALSETTINGS10 AND ENABLE THAT UNDER Settings->InternalSettings10->Enable Automation UNDER THE Apple Watch App Settings Section PART OF INTERNALSETTINGS10**.
