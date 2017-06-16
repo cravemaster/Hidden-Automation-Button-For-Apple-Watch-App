@@ -8,5 +8,5 @@ On iOS 10, things are different. iOS 10 now requires you to now have an internal
 **IF YOU ARE USING iOS 10 AND ARE RUNNING A JAILBREAK, YOU MUST INSTALL INTERNALSETTINGS10 AND ENABLE THAT UNDER Settings->InternalSettings10->Enable Automation UNDER THE Apple Watch App Settings Section PART OF INTERNALSETTINGS10**.
 
 This hack was <a href="https://twitter.com/hamzasood/status/576213010580111360
-">originally found by @hamzasood</a>. It apparently worked for him on his  device running iOS 8.2. Also, <a href="https://twitter.com/angelXwind/status/596490677669765120
-">@angelXwind also confirmed the hack worked</a> for her device as well.
+">originally found by @hamzasood</a>. It apparently worked for him on his device. Also, <a href="https://twitter.com/angelXwind/status/596490677669765120
+">@angelXwind confirmed the hack worked</a> for her device as well.
